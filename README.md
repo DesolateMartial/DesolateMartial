@@ -6,7 +6,15 @@
 - 🎓 *ECE Undergrad at VIT*
 - 🧠 Tech Tinkerer | Code Aesthete | System Whisperer
 - 🌐 Specializing in: *AI / ML • VLSI • Full-Stack Dev • Embedded Systems*
-- 🧰 Languages: Python | C++ | JavaScript | Verilog | Shell
+- 🧰 Languages:  
+  <p align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="22"/>
+    <img src="https://img.shields.io/badge/Verilog-8B0000?style=flat&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white" height="22"/>
+  </p>
+
 - 🛠 Tools:  
   <p align="left">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="22"/>
@@ -14,7 +22,6 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="22"/>
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="22"/>
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="22"/>
-    <img src="https://img.shields.io/badge/Verilog-8B0000?style=flat&logoColor=white" height="22"/>
     <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" height="22"/>
     <img src="https://img.shields.io/badge/Intel%20Quartus%20Prime-0071C5?style=flat&logo=intel&logoColor=white" height="22"/>
     <img src="https://img.shields.io/badge/ModelSim-003B6F?style=flat&logoColor=white" height="22"/>
