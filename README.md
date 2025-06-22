@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/ModelSim-003B6F?style=flat&logoColor=white" height="22"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="22"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/LTspice-B40000?style=flat&logoColor=white" height="22"/>
   </p>
 
 ---
@@ -45,12 +46,8 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/venkatesan-gk-231b0b31a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-venkatesan--gk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
-  </a>
-  <a href="mailto:burytheheavens@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-burytheheavens@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-venkatesan--gk-0077B5?style=flat&logo=linkedin&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Gmail-burytheheavens@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="22"/>
 </p>
 
 ---
