@@ -10,9 +10,11 @@
   <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="22"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="22"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="22"/>
     <img src="https://img.shields.io/badge/Verilog-8B0000?style=flat&logoColor=white" height="22"/>
-    <img src="https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white" height="22"/>
   </p>
 
 - 🛠 Tools:  
