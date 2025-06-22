@@ -3,6 +3,7 @@
 > “Code is poetry. Systems are art. Innovation is rebellion.” – 2025 Vibes ✨
 
 ### 👨‍💻 About Me
+- 🎓 **ECE Undergrad at VIT**
 - 🧠 Tech Tinkerer | Code Aesthete | System Whisperer
 - 🌐 Specializing in: **AI / ML • VLSI • Full-Stack Dev • Embedded Systems**
 - 🧰 Languages: `Python` | `C++` | `JavaScript` | `Verilog` | `Shell`
