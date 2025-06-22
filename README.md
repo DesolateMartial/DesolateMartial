@@ -58,9 +58,7 @@
 ---
 
 ### ⚡ Fun Fact  
-> I don’t follow best practices — I *rewrite* them.  
-> If the compiler screams, I scream louder.  
-> I’ve `git pushed --force` into the void — and it blinked.  
+> I write code that compiles and runs on the first try… sometimes 😅    
 > **Motto:** 👽 “Think binary. Dream analog. Live recursive.”
 
 ---
