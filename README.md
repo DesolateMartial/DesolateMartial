@@ -7,7 +7,14 @@
 - 🧠 Tech Tinkerer | Code Aesthete | System Whisperer
 - 🌐 Specializing in: **AI / ML • VLSI • Full-Stack Dev • Embedded Systems**
 - 🧰 Languages: `Python` | `C++` | `JavaScript` | `Verilog` | `Shell`
-- 🛠️ Tools: `Docker` | `Kubernetes` | `TCAD` | `Next.js` | `TensorFlow`
+
+#### 🛠️ Tools I Use:
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/TCAD-00599C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
 ---
 
@@ -22,8 +29,9 @@
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/venkatesan-gk-231b0b31a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:burytheheavens@gmail.com)
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /> [linkedin.com/in/venkatesan-gk-231b0b31a](https://www.linkedin.com/in/venkatesan-gk-231b0b31a/)  
+📫 **burytheheavens@gmail.com**
 
 ---
 
