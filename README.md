@@ -21,9 +21,8 @@
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&style=flat-square)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/venkatesan-gk-231b0b31a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:burytheheavens@gmail.com)
 
 ---
 
