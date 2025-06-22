@@ -14,6 +14,11 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="22"/>
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="22"/>
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/Verilog-8B0000?style=flat&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/Intel%20Quartus%20Prime-0071C5?style=flat&logo=intel&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/ModelSim-003B6F?style=flat&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="22"/>
   </p>
 
 ---
