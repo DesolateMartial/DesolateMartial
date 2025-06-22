@@ -34,13 +34,15 @@
 
 ---
 
-### 🧬 2025 Mission
-> To blend *hardware precision* with *software elegance* — one transistor, one algorithm at a time.
+### 🎯 Current Learning Goals
+> Leveling up across hardware and software, one breakthrough at a time.
 
-- 🔭 Building futuristic applications with *Edge AI* and *Neuromorphic chips*
-- ⚙ Designing silicon with *TCAD + HDL* workflows
-- 🌱 Experimenting with *Quantum Simulations* and *Bio-Inspired Architectures*
-- 📡 Currently decoding signals from the *next-gen tech frontier*
+- 🔬 Exploring advanced *VLSI architectures* & *EDA tools*
+- ⚙ Improving *HDL-based design* using *Verilog*, *ModelSim*, and *Quartus*
+- 🧠 Learning *Signal Processing* concepts through MATLAB & simulations
+- 🔌 Deepening *Embedded Systems* understanding using Arduino + C/C++
+- 🧪 Running *device-level simulations* in TCAD and interpreting outputs
+- 📈 Visualizing experiments with *Jupyter Notebooks* & *Data Tools*
 
 ---
 
