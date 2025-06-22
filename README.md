@@ -43,8 +43,10 @@
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/venkatesan-gk-231b0b31a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:burytheheavens@gmail.com)
+<p align="left">
+  <img src="https://img.shields.io/badge/LinkedIn-venkatesan--gk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Gmail-burytheheavens@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+</p>
 
 ---
 
