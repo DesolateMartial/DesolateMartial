@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="22"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="22"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="22"/>
     <img src="https://img.shields.io/badge/Verilog-8B0000?style=flat&logoColor=white" height="22"/>
   </p>
 
@@ -48,7 +49,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/venkatesan-gk-231b0b31a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-venkatesan--gk-0077B5?style=flat&logo=linkedin&logoColor=white" height="28"/>
-  </a>
+  </a>&nbsp;
   <a href="mailto:burytheheavens@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-burytheheavens@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="28"/>
   </a>
