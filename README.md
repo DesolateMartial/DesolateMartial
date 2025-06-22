@@ -42,7 +42,6 @@
 - 🧠 Learning *Signal Processing* concepts through MATLAB & simulations
 - 🔌 Deepening *Embedded Systems* understanding using Arduino + C/C++
 - 🧪 Running *device-level simulations* in TCAD and interpreting outputs
-- 📈 Visualizing experiments with *Jupyter Notebooks* & *Data Tools*
 
 ---
 
