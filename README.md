@@ -44,10 +44,14 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect With Me  
 <p align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-venkatesan--gk-0077B5?style=flat&logo=linkedin&logoColor=white" height="22"/>  
-  <img src="https://img.shields.io/badge/Gmail-burytheheavens@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="22"/>
+  <a href="https://www.linkedin.com/in/venkatesan-gk-231b0b31a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-venkatesan--gk-0077B5?style=flat&logo=linkedin&logoColor=white" height="22"/>
+  </a>
+  <a href="mailto:burytheheavens@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-burytheheavens@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="22"/>
+  </a>
 </p>
 
 ---
