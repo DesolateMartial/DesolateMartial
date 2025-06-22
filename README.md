@@ -6,22 +6,15 @@
 - 🎓 *ECE Undergrad at VIT*
 - 🧠 Tech Tinkerer | Code Aesthete | System Whisperer
 - 🌐 Specializing in: *AI / ML • VLSI • Full-Stack Dev • Embedded Systems*
-
-#### 🧰 Languages I Speak:
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Verilog-0081CB?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-
-#### 🛠 Tools I Use:
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/TCAD-00599C?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+- 🧰 Languages: Python | C++ | JavaScript | Verilog | Shell
+- 🛠 Tools:  
+  <p align="left">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/TCAD-00599C?style=flat&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="22"/>
+  </p>
 
 ---
 
