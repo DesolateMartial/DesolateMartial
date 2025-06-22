@@ -4,8 +4,9 @@
 
 ### 👨‍💻 About Me
 - 🎓 *ECE Undergrad at VIT*
-- 🧠 Tech Tinkerer | Code Aesthete | System Whisperer
+- 🧠 Tech Tinkerer | Code Aesthete | System Whisperer  
 - 🌐 Specializing in: *Digital Design • Embedded Systems • VLSI • Signal Processing*
+
 - 🧰 Languages:  
   <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/>
@@ -34,20 +35,18 @@
 
 ---
 
-### 🎯 Current Learning Goals
-> Leveling up across hardware and software, one breakthrough at a time.
-
-- 🔬 Exploring advanced *VLSI architectures* & *EDA tools*
-- ⚙ Improving *HDL-based design* using *Verilog*, *ModelSim*, and *Quartus*
-- 🧠 Learning *Signal Processing* concepts through MATLAB & simulations
-- 🔌 Deepening *Embedded Systems* understanding using Arduino + C/C++
-- 🧪 Running *device-level simulations* in TCAD and interpreting outputs
+### 🌱 Learning Goals for 2025:
+- 🔌 **Embedded Systems Mastery** *(Arduino, ESP32, Interrupts, Real-time C Programming)*
+- 🧠 **Build ML Models** *(TensorFlow, Keras – tailored for ECE applications)*
+- 🔧 **RTL Design & Simulation** *(Verilog, ModelSim, Intel Quartus Prime)*
+- 🧪 **Device-Level Circuit Simulations** *(Synopsys TCAD, LTspice, MATLAB)*
+- 🌍 **Higher Studies Abroad** *(Germany / US – VLSI, Embedded Systems focus)*
 
 ---
 
 ### 🌐 Connect With Me
 <p align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-venkatesan--gk-0077B5?style=flat&logo=linkedin&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/LinkedIn-venkatesan--gk-0077B5?style=flat&logo=linkedin&logoColor=white" height="22"/>  
   <img src="https://img.shields.io/badge/Gmail-burytheheavens@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="22"/>
 </p>
 
