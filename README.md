@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me
 - 🎓 *ECE Undergrad at VIT*
 - 🧠 Tech Tinkerer | Code Aesthete | System Whisperer
-- 🌐 Specializing in: *AI / ML • VLSI • Full-Stack Dev • Embedded Systems*
+- 🌐 Specializing in: *Digital Design • Embedded Systems • VLSI • Signal Processing*
 - 🧰 Languages:  
   <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/>
