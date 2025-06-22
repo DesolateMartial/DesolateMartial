@@ -3,9 +3,9 @@
 > “Code is poetry. Systems are art. Innovation is rebellion.” – 2025 Vibes ✨
 
 ### 👨‍💻 About Me
-- 🎓 *ECE Undergrad at VIT*
+- 🎓 *ECE Undergrad at VIT*  
 - 🧠 Tech Tinkerer | Code Aesthete | System Whisperer  
-- 🌐 Specializing in: *Digital Design • Embedded Systems • VLSI • Signal Processing*
+- 🌐 Focused on: *Digital Design • Embedded Systems • VLSI • Signal Processing*
 
 - 🧰 Languages:  
   <p align="left">
@@ -36,21 +36,21 @@
 ---
 
 ### 🌱 Learning Goals for 2025:
-- 🔌 **Embedded Systems Mastery** *(Arduino, ESP32, Interrupts, Real-time C Programming)*
-- 🧠 **Build ML Models** *(TensorFlow, Keras – tailored for ECE applications)*
-- 🔧 **RTL Design & Simulation** *(Verilog, ModelSim, Intel Quartus Prime)*
-- 🧪 **Device-Level Circuit Simulations** *(Synopsys TCAD, LTspice, MATLAB)*
-- 🌍 **Higher Studies Abroad** *(Germany / US – VLSI, Embedded Systems focus)*
+- 🔌 **Embedded Systems Mastery** (Arduino, ESP32, Interrupts, Real-time C Programming)  
+- 🧠 **Build ML Models** (TensorFlow, Keras – tailored for ECE applications)  
+- 🔧 **RTL Design & Simulation** (Verilog, ModelSim, Intel Quartus Prime)  
+- 🧪 **Device-Level Circuit Simulations** (Synopsys TCAD, LTspice, MATLAB)  
+- 🌍 **Higher Studies Abroad** (Germany – VLSI, Embedded Systems focus)  
 
 ---
 
 ### 🌐 Connect With Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/venkatesan-gk-231b0b31a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-venkatesan--gk-0077B5?style=flat&logo=linkedin&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/LinkedIn-venkatesan--gk-0077B5?style=flat&logo=linkedin&logoColor=white" height="28"/>
   </a>
   <a href="mailto:burytheheavens@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-burytheheavens@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/Gmail-burytheheavens@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="28"/>
   </a>
 </p>
 
