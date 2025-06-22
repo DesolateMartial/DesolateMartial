@@ -36,7 +36,7 @@
 
 ---
 
-### 🌱 Learning Goals for 2025:
+### 🌱 Learning Goals :
 - 🔌 **Embedded Systems Mastery** (Arduino, ESP32, Interrupts, Real-time C Programming)  
 - 🧠 **Build ML Models** (TensorFlow, Keras – tailored for ECE applications)  
 - 🔧 **RTL Design & Simulation** (Verilog, ModelSim, Intel Quartus Prime)  
