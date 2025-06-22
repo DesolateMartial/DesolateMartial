@@ -1,6 +1,6 @@
 ## 🚀 Welcome to 𝙳𝚎𝚜𝚘𝚕𝚊𝚝𝚎𝙼𝚊𝚛𝚝𝚒𝚊𝚕's Codeverse 🌌
 
-> “Code is poetry. Systems are art. Innovation is rebellion.” – 2025 Vibes ✨
+> “Code is poetry. Systems are art. Innovation is rebellion.” – Vibes ✨
 
 ### 👨‍💻 About Me
 - 🎓 *ECE Undergrad at VIT, Chennai*
